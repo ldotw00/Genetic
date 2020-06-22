@@ -6,7 +6,7 @@
 
 이와 관련된 설명은 [재획비란.md](https://github.com/ldotw5121/Genetic/blob/master/재획비란.md)파일에 작성되어있으며
 
-데이터에 관해서는 [225-235레벨 구간에서 1재획당 먹는 경험치 비율.md](https://github.com/ldotw5121/Genetic/blob/master/225-235레벨 구간에서 1재획당 먹는 경험치 비율.md) 파일에 작성되어있다.
+데이터에 관해서는 [225-235레벨 구간에서 1재획당 먹는 경험치 비율.md](https://github.com/ldotw5121/Genetic/blob/master/225-235%EB%A0%88%EB%B2%A8%20%EA%B5%AC%EA%B0%84%EC%97%90%EC%84%9C%201%EC%9E%AC%ED%9A%8D%EB%8B%B9%20%EB%A8%B9%EB%8A%94%20%EA%B2%BD%ED%97%98%EC%B9%98%20%EB%B9%84%EC%9C%A8.md) 파일에 작성되어있다.
 
 이 데이터를 이용하여 회귀식을 작성해보자.
 선형회귀를 한다는 가정을 전제로 할 것이며 이에 따라서 식은 y= ax+b의 형태로 나타난다.
