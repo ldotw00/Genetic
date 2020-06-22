@@ -94,7 +94,7 @@ x가 234인 점은 그래프에서 X_9(234,13.51)이고 x가 228인 점은 X_3(2
 <br>
 유전 알고리즘을 한 번 거친 식은 y1 = -2.6x1+621.91이다.<br>
 <br>
-![](https://user-images.githubusercontent.com/62733730/85315074-5be5de80-b4f5-11ea-8515-470a3048096b.jpg)
+![genoneline](https://user-images.githubusercontent.com/62733730/85315074-5be5de80-b4f5-11ea-8515-470a3048096b.jpg)
 <br>
 이후로도 여러번 유전알고리즘을 통해서 식이 많이 나올 것이다.<br>
 <br>
@@ -113,5 +113,5 @@ Y = (-1.982 -2.6 /2)X + (478.78 + 621.91/2)<br>
 <br>
 Y = -2.291X + 550.345이다.<br>
 <br>
-![](https://user-images.githubusercontent.com/62733730/85315098-63a58300-b4f5-11ea-858e-6b784e6a97cd.jpg)
+![genoneplusfirstline](https://user-images.githubusercontent.com/62733730/85315098-63a58300-b4f5-11ea-858e-6b784e6a97cd.jpg)
 
